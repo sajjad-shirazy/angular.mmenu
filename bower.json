@@ -3,6 +3,9 @@
   "version": "0.1.1",  
   "authors"		: "matafonoff",
   "description"	: "AngularJS directives for jquery.MMenu plugin.",
+  "main":[
+    "dist/angular.mmenu.js"
+  ],
   "dependencies": {
     "angular": "^1.4.8",
     "jquery": "^1.11.3",
