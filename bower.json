@@ -1,5 +1,5 @@
 {
-  "name": "dashboardBuilder",
+  "name": "angular.mmenu",
   "version": "0.1.1",  
   "authors"		: "matafonoff",
   "description"	: "AngularJS directives for jquery.MMenu plugin.",
